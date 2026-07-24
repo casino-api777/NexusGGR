@@ -87,5 +87,8 @@ Visit the [live demo](https://nexusggr.games?utm_source=github&utm_medium=readme
 ---
 
 <p align="center">
-  <strong>NexusGGR</strong> — Casino API · Slots API · Live Casino API · Sportsbook API · iGaming Whitelabel
+  <strong>NexusGGR</strong> — Casino API · Slots API · Live Casino API · Sportsbook API · iGaming Whitelabel<br>
+  <sub>Last updated: 2026-07-24 15:00 UTC</sub>
 </p>
+
+<!-- last-updated: 2026-07-24 15:00 UTC -->
